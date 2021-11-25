@@ -1,5 +1,3 @@
-
-
 package main
 import (
 	"encoding/json"
@@ -71,9 +69,7 @@ func main() {
 		return
 	}
 	fmt.Println(array.foos[0])
-	//for _, t := range array {
-	//	fmt.Println(t, "-")
-	//}
+	
 
 
 
